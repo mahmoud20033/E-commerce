@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+    position: relative;
+
+}
+
+.Delete {
+    position: sticky;
+    top: 20px;
+    height: fit-content;
+    padding: 1rem;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+
+.button1 {
+    display: block;
+}
+
