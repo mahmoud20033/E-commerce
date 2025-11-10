@@ -6,7 +6,7 @@ import About from './Pages/About'
 import Contant from './Pages/Contant'
 import Cart from './Pages/Cart'
 import "bootstrap/dist/css/bootstrap.min.css"
-import AllData from './Componenet/allData'
+import AllData from './Componenet/AllData'
 import Register from './Pages/Register'
 import Sign from './Pages/Sign'
 
